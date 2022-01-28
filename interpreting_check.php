@@ -32,7 +32,7 @@ $active = $_POST['on'];
 <img class="back_btn"  src="img/return.png"  onclick="history.back()" alt="return">
 <nav>
 <ul id="navi">
-<li><a href="http://localhost:8888/signers/interpreting_list.php" style="color:white">予約確認</a></li>
+<li><a href="interpreting_list.php" style="color:white">予約確認</a></li>
 <li><a href="#" style="color:white">履歴一覧</a></li>
 <li><a href="#"  style="color:white">お問い合わせ</a></li>
 </ul>
@@ -96,11 +96,11 @@ $active = $_POST['on'];
     <footer>
 
     <div id="footerFloatingMenu">
-        <a  class="a_button" href="http://localhost:8888/signers/index.html"><img src="img/home.png"></a>
+        <a  class="a_button" href="index.html"><img src="img/home.png"></a>
         <a  class="a_button" href="#"><img src="img/movie.png"></a>
-        <a  class="a_button" href="http://localhost:8888/signers/interpreting_menu.html"><img src="img/sign.png"></a>
+        <a  class="a_button" href="interpreting_menu.html"><img src="img/sign.png"></a>
         <a  class="a_button" href="#"><img src="img/videochat.png"></a>
-        <a  class="a_button" href="http://localhost:8888/signers/userdata_menu.html"><img src="img/user.png"></a>
+        <a  class="a_button" href="userdata_menu.html"><img src="img/user.png"></a>
     </div>
 
 

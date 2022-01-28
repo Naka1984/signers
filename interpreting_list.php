@@ -88,7 +88,7 @@ $active = $_POST['on'];
     </thead>
     <tbody>
       <tr>
-        <th><a href="/signers/videochat.html#" style="text-decoration: none">2022/01/29（土） 13:30</th>
+        <th><a href="videochat.html#" style="text-decoration: none">2022/01/29（土） 13:30</th>
         <td label="通訳分類"><p>医療</p></td>
         <td label="内容"><p>耳鼻咽喉科の受診（再診）</p></td>
         <td label="現場"><p>市立札幌病院　耳鼻咽喉科</p></td>
@@ -125,11 +125,11 @@ $active = $_POST['on'];
     <footer>
 
     <div id="footerFloatingMenu">
-        <a  class="a_button" href="/signers/index.html"><img src="img/home.png"></a>
+        <a  class="a_button" href="index.html"><img src="img/home.png"></a>
         <a  class="a_button" href="#"><img src="img/movie.png"></a>
-        <a  class="a_button" href="/signers/interpreting_menu.html"><img src="img/sign.png"></a>
+        <a  class="a_button" href="interpreting_menu.html"><img src="img/sign.png"></a>
         <a  class="a_button" href="#"><img src="img/videochat.png"></a>
-        <a  class="a_button" href="/signers/userdata_menu.html"><img src="img/user.png"></a>
+        <a  class="a_button" href="userdata_menu.html"><img src="img/user.png"></a>
     </div>
 
     </footer>
